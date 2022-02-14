@@ -15,6 +15,8 @@ This search is to find or hunt malware and use that to defense organisation.
 
 ![VT-Graph_v3](https://user-images.githubusercontent.com/19946447/153811701-fc3b3750-af3c-4176-a0da-1c655905a194.PNG)
 
+From all this hashes you can update into your AV to block it.
+
 ## Find recent ransomware sample
 
 Use filter in VT-Entreprise
@@ -39,7 +41,7 @@ tag:attachment type:docx fs:2022-02-01+ p:5+ s:2+ tag:macros
 p: positive detection.    
 s: size of file.  
 
-## Most Common CVE used by Advasaries
+## Most Common CVE used by Adversaries
 Exploited by malware and you can patch it.  
 ```
 tag:cve* tag:attachment fs:2022-02-01+
